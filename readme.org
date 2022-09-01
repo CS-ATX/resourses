@@ -14,7 +14,8 @@
   - [[#editors][Editors]]
 - [[#tools][Tools]]
   - [[#editors-and-ides][Editors and IDEs]]
-  - [[#interactive][Interactive]]
+  - [[#project-environment][Project Environment]]
+  - [[#calculate][Calculate]]
   - [[#design][Design]]
 
 * Learn
@@ -46,6 +47,7 @@
 - [[https://hackerrank.com/][Hacker Rank]]
 - [[https://leetcode.com/][Leet Code]]
 - [[https://hackthebox.com/][HackTheBox]]
+- Code Wars
 ** Typing
 - [[https://monkeytype.com/][MonkeyType]]
 - [[https://speedcoder.net/][SpeedCoder]]
@@ -57,7 +59,26 @@
 - [[http://viso.to/aYY0yeMxO][Configure VSCode for C++]]
 * Tools
 ** Editors and IDEs
-** Interactive
+** Project Environment
+*** Databases
+MongoDB
+*** Hosting and Platforms
+- Heroku
+- DigitalOcean
+- Linode
+** Calculate
 - [[https://regexr.com/][RegExr: Interactive regular expression generator]]
+- Wolfram|Alpha
 ** Design
-- [[https://coolors.co/generate][Coolors: Color Palate Generator]]
+Mockup
+- [[https://www.sketch.com/][Sketch]]
+- [[https://www.adobe.com/products/xd.html][AdobeXD]]
+Color
+- [[https://coolors.co/generate][Coolors]]
+- [[https://colorhunt.co/][Color Hunt]]
+- [[https://paletton.com/][Paletton]]
+- [[https://www.degraeve.com/color-palette/][Degrave Palatte Generator]]
+- [[http://colormind.io/][Color Mind]]
+- [[https://uigradients.com/][UI Gradients]]
+- [[https://color.adobe.com/create/color-wheel][Adobe Color]]
+- [[https://flatuicolors.com/][Flat UI Colors]]

@@ -73,7 +73,7 @@
 ** Editors and IDEs
 ** Project Environment
 *** Databases
-MongoDB
+- MongoDB
 *** Hosting and Platforms
 - Heroku
 - DigitalOcean

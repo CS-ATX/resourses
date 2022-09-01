@@ -1,0 +1,63 @@
+#+title: Readme
+
+* Contents :toc:
+- [[#learn][Learn]]
+  - [[#computer-science][Computer Science]]
+  - [[#web-development][Web Development]]
+  - [[#cc][C/C++]]
+  - [[#dev-tools][Dev Tools]]
+- [[#practice][Practice]]
+  - [[#coding][Coding]]
+  - [[#typing][Typing]]
+- [[#reference][Reference]]
+- [[#troubleshooting][Troubleshooting]]
+  - [[#editors][Editors]]
+- [[#tools][Tools]]
+  - [[#editors-and-ides][Editors and IDEs]]
+  - [[#interactive][Interactive]]
+  - [[#design][Design]]
+
+* Learn
+** Computer Science
+- [[http://viso.to/2Tr8a3lvE][Code: The Hidden Language of Computer Hardware and Software]]
+- [[http://viso.to/5E510Tefq][The Elements of Computing Systems, aka "Nand2Tetris"]]
+- [[https://cs50.harvard.edu/x][Harvard's CS50x]]
+** Web Development
+- [[https://freecodecamp.org/][freeCodeCamp]]
+- [[http://viso.to/9x8B0PKOH][Eloquent JavaScript]]
+- [[http://viso.to/fMu3tMoPo][HTML and CSS]]
+** C/C++
+- [[https://fluentcpp.com/][Fluent C++]]
+- [[https://goalkicker.com/CPlusPlusBook/][C++ Notes for Professionals]]
+- [[http://viso.to/ZkWf3Ympa][The C++ Programming Language, aka "The Mountains Book"]]
+- [[http://viso.to/YI-93jMlt][Cherno: C++ Series]]
+- [[http://viso.to/gYUeThN2s][The Cherno YT]]
+- [[http://viso.to/BndHEBxLY][Syntax Cheatsheet]]
+- [[https://cppreference.com/][Cpp Reference]]
+- [[https://cplusplus.com/][C Plus Plus Reference]]
+- [[https://learncpp.com/][Learn C++]]
+** Dev Tools
+- [[http://viso.to/i-fQpkHEs][Learn Enough Command Line To Be Dangerous]]
+- [[https://git-scm.com/book/][Pro Git]]
+* Practice
+** Coding
+- [[https://rosettacode.org/][Rosetta Code]]
+- [[https://projecteuler.net/][Project Euler]]
+- [[https://hackerrank.com/][Hacker Rank]]
+- [[https://leetcode.com/][Leet Code]]
+- [[https://hackthebox.com/][HackTheBox]]
+** Typing
+- [[https://monkeytype.com/][MonkeyType]]
+- [[https://speedcoder.net/][SpeedCoder]]
+- [[https://keybr.com/][KeyBr]]
+- [[https://ratatype.com/][RataType]]
+* Reference
+* Troubleshooting
+** Editors
+- [[http://viso.to/aYY0yeMxO][Configure VSCode for C++]]
+* Tools
+** Editors and IDEs
+** Interactive
+- [[https://regexr.com/][RegExr: Interactive regular expression generator]]
+** Design
+- [[https://coolors.co/generate][Coolors: Color Palate Generator]]

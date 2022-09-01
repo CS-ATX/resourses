@@ -2,6 +2,7 @@
 
 * Contents :toc:
 - [[#learn][Learn]]
+  - [[#general][General]]
   - [[#computer-science][Computer Science]]
   - [[#web-development][Web Development]]
   - [[#cc][C/C++]]
@@ -17,8 +18,17 @@
   - [[#project-environment][Project Environment]]
   - [[#calculate][Calculate]]
   - [[#design][Design]]
+  - [[#productivity][Productivity]]
 
 * Learn
+** General
+- Udemy
+- EdX
+- MIT OCW
+- Khan Academy
+- Coursera
+- Udacity
+- Brilliant
 ** Computer Science
 - [[http://viso.to/2Tr8a3lvE][Code: The Hidden Language of Computer Hardware and Software]]
 - [[http://viso.to/5E510Tefq][The Elements of Computing Systems, aka "Nand2Tetris"]]
@@ -40,6 +50,7 @@
 ** Dev Tools
 - [[http://viso.to/i-fQpkHEs][Learn Enough Command Line To Be Dangerous]]
 - [[https://git-scm.com/book/][Pro Git]]
+- Sacha Chua's Emacs Blog
 * Practice
 ** Coding
 - [[https://rosettacode.org/][Rosetta Code]]
@@ -54,6 +65,7 @@
 - [[https://keybr.com/][KeyBr]]
 - [[https://ratatype.com/][RataType]]
 * Reference
+- DevHints
 * Troubleshooting
 ** Editors
 - [[http://viso.to/aYY0yeMxO][Configure VSCode for C++]]
@@ -82,3 +94,7 @@ Color
 - [[https://uigradients.com/][UI Gradients]]
 - [[https://color.adobe.com/create/color-wheel][Adobe Color]]
 - [[https://flatuicolors.com/][Flat UI Colors]]
+** Productivity
+- SnapDrop
+- Pocket
+- Anki
